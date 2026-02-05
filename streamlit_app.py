@@ -17,7 +17,7 @@ import database as db
 import requests
 
 st.set_page_config(
-    page_title="YKTI RAWAT",
+    page_title="THE DARK HUNTER",
     page_icon="✅",
     layout="wide",
     initial_sidebar_state="expanded"
